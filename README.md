@@ -2,7 +2,7 @@
 ## Data
 My analysis was done using the AviationData_clean.csv located in the data directory.
 
-## Anaylsis for Make
+## Analysis for Make
 ![plots of make and airplane sizes for mean fatal/serious injured fraction](images/make_mean_fatal_serious_injured_fraction.png)
 
 ![plots of make and airplane sizes for rate of aircraft destruction](images/make_rate_of_aircraft_destruction.png)

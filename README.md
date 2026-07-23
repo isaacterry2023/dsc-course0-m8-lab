@@ -4,6 +4,7 @@ My analysis was done using the AviationData_clean.csv located in the data direct
 
 ## Anaylsis for Make
 ![plots of make and airplane sizes for mean fatal/serious injured fraction](images/make_mean_fatal_serious_injured_fraction.png)
+
 ![plots of make and airplane sizes for rate of aircraft destruction](images/make_rate_of_aircraft_destruction.png)
 
 For smaller airplanes, Airbus is the only airplane make in the top 5 lowest for the both the rate of aircraft destruction at about 0.02 and the mean fatal/serious injured fraction at about 0.03. I recommend Airbus as the make to use for smaller airplanes.
@@ -14,6 +15,7 @@ Note: My analysis was done with a sample size of at least 30 for each combinatio
 
 ## Analysis for Make/Model
 ![plots of make/model for larger airplanes for mean fatal/serious injured fraction](images/make_model_larger_airplane_mean_fatal_serious_injured_fraction.png)
+
 ![plots of make/model for smaller airplanes for mean fatal/serious injured fraction](images/make_model_smaller_airplane_mean_fatal_serious_injured_fraction.png)
 
 For larger airplanes:
@@ -32,6 +34,7 @@ Note: The sample size is at least 10 (based on the assignment's instructions) fo
 
 ## Analysis for Weather Conditions
 ![plots of weather conditions and airplane sizes for mean fatal/serious injured fraction](images/weather_condition_mean_fatal_serious_injured_fraction.png)
+
 ![plots of weather conditions and airplane sizes for rate of aircraft destruction](images/weather_condition_rate_of_aircraft_destruction.png)
 
 For larger airplane makes and weather conditions:
@@ -47,8 +50,9 @@ Recommendation for airplanes based on weather conditions: For smaller airplanes,
 
 Note: My analysis and recommendations are based on a sample size of at least 30 for each combination of values for weather conditions and smaller/bigger airplane type.
 
-## Analysiss for Number of Engines
+## Analysis for Number of Engines
 ![plots of number of engines and airplane sizes for mean fatal/serious injured fraction](images/number_of_engines_mean_fatal_serious_injured_fraction.png)
+
 ![plots of number of engines and airplane sizes for rate of aircraft destruction](images/number_of_engines_rate_of_aircraft_destruction.png)
 
 For larger airplane makes and number of engines:
